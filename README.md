@@ -12,6 +12,5 @@ extra_services: Customer preferences for additional services (baggage, meals, se
 Analyzing booking trends by day, country, and trip type.										
 Identifying customer preferences for extra services.										
 Building dashboards for business decision-making.										
-📌 Source: Kaggle – Airlines Booking Dataset										
-<img width="881" height="339" alt="image" src="https://github.com/user-attachments/assets/5f864c1e-3f92-4a98-aa88-ee8f0eb04741" />
+📌 Source: Kaggle – Airlines Booking Dataset
 
